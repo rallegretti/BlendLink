@@ -1,0 +1,8 @@
+Flask>=2.2.3
+Flask-RESTful
+Jinja2
+MarkupSafe
+pytz
+six
+Werkzeug
+PySimpleGUI
